@@ -5,6 +5,8 @@ Aspiring Surgeon and Researcher
 ## Work in progress
 Stay tuned for developments on colormatching apps and other projects.
 
+![text](/chart.png)
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
