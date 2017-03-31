@@ -1,9 +1,9 @@
 ## Jonathan Butts
-UIC Medical Student
-Aspiring Surgeon and Researcher
+UIC Medical Student.
+Aspiring Surgeon, Researcher, and Culinary Medicine Enthusiast.
 
 ## Work in progress
-Stay tuned for developments on colormatching apps and other projects.
+Stay tuned for developments on apps and other projects.
 
 ![text](/chart.png)
 
